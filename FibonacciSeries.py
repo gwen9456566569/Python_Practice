@@ -18,4 +18,4 @@ def fibonacci_series(n):
          series.append(fibonacci_number(i))
      print(series)
 
-fibonacci_series(5)
+fibonacci_series(n)
