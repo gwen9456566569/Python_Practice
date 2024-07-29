@@ -14,7 +14,7 @@ def fibonacci_number(num):
 def fibonacci_series(n):
      series = []
      for i in range(1, (n+1)):
-         print(fibonacci_number(i))
+        # print(fibonacci_number(i))
          series.append(fibonacci_number(i))
      print(series)
 
